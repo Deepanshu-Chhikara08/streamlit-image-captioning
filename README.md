@@ -84,15 +84,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributing
 
 Contributions are welcome! Please open an issue to discuss changes or submit a pull request.
-
----
-
-*Created by Deepanshu Chhikara*
-```
-
-### Instructions
-
-1. Replace `https://github.com/your-username/image-to-text-app.git` with the actual URL of your GitHub repository.
-2. Customize your email and any contact information if necessary.
-
-This `README.md` should be suitable for your GitHub project and provides a comprehensive overview for users and collaborators.
